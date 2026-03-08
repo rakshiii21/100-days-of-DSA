@@ -48,3 +48,4 @@ Streak maintained for Day 32
 Streak maintained for Day 33
 Streak maintained for Day 34
 Streak maintained for Day 35
+Streak maintained for Day 36
